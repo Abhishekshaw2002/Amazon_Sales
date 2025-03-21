@@ -1,4 +1,4 @@
-# Amazon_Sales
+# Amazon Sales Dashboard
 
 1. Problem Statement:
 Amazon’s sales data is vast and complex, making it challenging to derive actionable insights. The lack of a centralized visualization system hinders decision-making. Key challenges include:
