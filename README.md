@@ -1,6 +1,6 @@
 # Amazon Sales Dashboard
 
-!(https://github.com/Abhishekshaw2002/Amazon_Sales/blob/822c8f52432007fe972683981939806a50f5576a/img_used/Amazon.jpeg)
+![Intro](https://github.com/Abhishekshaw2002/Amazon_Sales/blob/822c8f52432007fe972683981939806a50f5576a/img_used/Amazon.jpeg)
 
 # Description:
 An Amazon sales dashboard is a centralized, visual interface within Seller Central that helps sellers monitor, analyze, and manage their sales performance. It aggregates key data into easily digestible metrics and graphs so that sellers can quickly assess business health and make informed decisions.
