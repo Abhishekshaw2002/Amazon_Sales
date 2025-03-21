@@ -79,7 +79,7 @@ The Power BI dashboard successfully tracks Amazon’s sales KPIs, enabling data-
 
 # Screenshots: 
 screenshots of Power Bi dashboard, data model and visualizations 
-![Intro]
+![Intro](https://github.com/Abhishekshaw2002/Amazon_Sales/blob/958ad1f85be11d9101c9a7c4853c35fb783ab755/img_used/Screenshot%202025-03-19%20224002.png)
 
 
 
