@@ -18,6 +18,8 @@ Develop a Power BI dashboard to:
 •	Enable automated data refresh. 
 •	Provide role-based access to stakeholders.
 
+![Intro](https://github.com/Abhishekshaw2002/Amazon_Sales/blob/673e94ce50b76de34600ffba5c39993fd6aa7367/img_used/objective.png)
+
 # Technology Used:
 •	Power BI: Dashboard creation & visualization. 
 •	Power Query: Data transformation. 
