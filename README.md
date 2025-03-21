@@ -33,10 +33,12 @@ Develop a Power BI dashboard to:
 •	Interactive dashboards for 8+ KPIs. 
 •	Scheduled refresh and access control.
 
-# Requirement Gathering:
+# Requirement Gathering for Visualization:
 •	KPIs: Yearly Sales Trend | Sales by Region | Sales vs. Production Units | Return Rates by Segment | Profit by Customer. 
 •	Data Sources: Sales transactions, returns, customer metadata. 
 •	User Needs: Real-time dashboards, export options, role-based access.
+
+![Intro[(https://github.com/Abhishekshaw2002/Amazon_Sales/blob/39c66dfcc03d1160b896b3e0f38bcf893f227b77/img_used/visualise.jpeg)
 
 # Model Development:
 Tables:
