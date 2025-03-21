@@ -77,6 +77,10 @@ Data Cleaning: Removed duplicates, standardized regions, handled nulls.
 # Conclusions:
 The Power BI dashboard successfully tracks Amazon’s sales KPIs, enabling data-driven decisions. Automated refresh and access controls ensure scalability and security.
 
+# Screenshots: 
+screenshots of Power Bi dashboard, data model and visualizations 
+![Intro]
+
 
 
 
